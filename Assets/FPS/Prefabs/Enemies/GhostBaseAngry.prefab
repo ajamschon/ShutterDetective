@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7542600122520665652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 506453138574233495, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 506453138574233495, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: detectionRange
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 506453138574233495, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: attackRange
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 506453138574233495, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: knownTargetTimeout
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581714540002780734, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762497363191603207, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: onDetectSFX
+      value: 
+      objectReference: {fileID: 8300000, guid: f9db721c958a2374db71df97d16b8999, type: 3}
+    - target: {fileID: 3014359286713879676, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956674, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_Name
+      value: GhostBaseAngry
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5767424
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791524232665956686, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950684863087910999, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: shootSFX
+      value: 
+      objectReference: {fileID: 8300000, guid: f9db721c958a2374db71df97d16b8999, type: 3}
+    - target: {fileID: 5411922073140164425, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5411922073140164425, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756056731269347733, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: f9db721c958a2374db71df97d16b8999, type: 3}
+    - target: {fileID: 5756056731269347733, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756056731269347733, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: Priority
+      value: 119
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756056731269347733, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5756056731269347733, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6770178371250603553, guid: 21a8a79a88ae483488f731a08a442089,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 21a8a79a88ae483488f731a08a442089, type: 3}
