@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Notes
+  - MainQuest
   layers:
   - Default
   - TransparentFX
